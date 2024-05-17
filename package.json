@@ -12,7 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.6.0",
+    "cypress": "^13.9.0",
+    "faker": "^5.5.3",
     "joi": "^17.12.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
   }
 }
